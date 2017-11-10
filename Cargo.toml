@@ -1,0 +1,9 @@
+[package]
+name = "machine-ip"
+version = "0.1.0"
+authors = ["Jovansonlee Cesar <ivanceras@gmail.com>"]
+description = "Get your machine's local IP address."
+license = "MIT"
+repository = "https://github.com/ivanceras/machine-ip"
+
+[dependencies]
