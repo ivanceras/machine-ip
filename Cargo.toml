@@ -1,6 +1,6 @@
 [package]
 name = "machine-ip"
-version = "0.2.0"
+version = "0.2.1"
 authors = ["Jovansonlee Cesar <ivanceras@gmail.com>"]
 description = "Get your machine's local IP address."
 license = "MIT"
