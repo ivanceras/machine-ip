@@ -17,7 +17,7 @@ println!("local ip address: {:?}", ip.to_string());
 ```
 
 ## Warning
-This crate just wraps the `hostname` comman, so it only works on unix based OS, and this doesn't work on windows.
+This crate just wraps the `hostname` command, so it only works on unix based OS, and this doesn't work on windows.
 
 ## License
 
