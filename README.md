@@ -16,6 +16,8 @@ let ip = machine_ip::get().unwrap();
 println!("local ip address: {:?}", ip.to_string());
 ```
 
+## Warning
+This crate just wraps the `hostname` comman, so it only works on unix based OS, and this doesn't work on windows.
 
 ## License
 
